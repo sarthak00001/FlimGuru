@@ -1,0 +1,9 @@
+# Ignore large data files
+sahienv/
+movies_knn.pkl
+similarity_list.pkl
+*.pkl
+*.db
+*.webp
+*.mp4
+*.csv
